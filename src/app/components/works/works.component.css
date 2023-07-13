@@ -1,0 +1,16 @@
+.cards{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card{
+    width: 15rem;
+}
+
+.btn {
+    background-color: #ffda95;
+    
+}

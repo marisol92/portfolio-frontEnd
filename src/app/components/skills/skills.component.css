@@ -1,0 +1,12 @@
+.row{
+    padding: 20px;
+}
+
+.progress{
+    height:10px;
+    width: 16rem;
+}
+
+--bs-progress-bar-bg {
+    color:#ffc107;
+} 
